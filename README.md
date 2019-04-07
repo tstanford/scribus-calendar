@@ -12,8 +12,8 @@ This script requires Scribus is installed (https://www.scribus.net/). This scrip
 The calendar feature a page per month in portrait orientation. The days of the month are listed in an 3x11 grid leaving enough space to write in. The calendar can prepopulate special events prior to printing. To do this, you'll need to edit the list of events in the script itself.
 
 ## Usage
-> Open Scribus.
-> From the Application menu select Script > Execute Script. A dialog will appear. Select the file cal.py. The script will not prompt you for any values. At this point, you're expect to have configured it yourself prior to executing.
+* Open Scribus.
+* From the Application menu select Script > Execute Script. A dialog will appear. Select the file cal.py. The script will not prompt you for any values. At this point, you're expected to have configured it yourself prior to executing.
 
 ## Example Calendar
 ![Image](https://i.imgur.com/DWJZEn9.jpg)

@@ -16,7 +16,7 @@ The calendar feature a page per month in portrait orientation. The days of the m
 > From the Application menu select Script > Execute Script. A dialog will appear. Select the file cal.py. The script will not prompt you for any values. At this point, you're expect to have configured it yourself prior to executing.
 
 ## Example Calendar
-[img]https://i.imgur.com/DWJZEn9.jpg[/img]
+![Image](https://i.imgur.com/DWJZEn9.jpg)
 
 ## Feedback, contribution.
 Please feel free to get in touch if you wish to give feedback or to contribute, fork my project etc.
